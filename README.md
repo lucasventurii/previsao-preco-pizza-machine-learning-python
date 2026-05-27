@@ -1,8 +1,8 @@
 # 🍕 Previsão de Preço de Pizza com Machine Learning
 
-Projeto desenvolvido em Python utilizando Machine Learning para prever o preço de uma pizza com base no seu diâmetro.
+Projeto simples de Machine Learning desenvolvido em Python para prever o preço de uma pizza com base no seu diâmetro.
 
-Além do modelo de regressão linear, o projeto também possui uma interface web interativa criada com Streamlit.
+A aplicação possui uma interface interativa feita com Streamlit.
 
 ---
 
@@ -18,11 +18,10 @@ Além do modelo de regressão linear, o projeto também possui uma interface web
 # 📊 Funcionalidades
 
 ✅ Leitura de dados CSV  
-✅ Análise de dados  
-✅ Visualização gráfica  
 ✅ Treinamento de modelo de Machine Learning  
-✅ Predição de preços  
+✅ Regressão Linear para previsão de preços  
 ✅ Interface web interativa  
+✅ Entrada de dados pelo usuário  
 
 ---
 
@@ -31,25 +30,15 @@ Além do modelo de regressão linear, o projeto também possui uma interface web
 - Machine Learning
 - Regressão Linear
 - Análise de Dados
-- Visualização de Dados
-- Predição de Valores
-- Interface Web com Python
-
----
-
-# 📌 Exemplo do Projeto
-
-O usuário informa o diâmetro da pizza e o sistema utiliza um modelo de Regressão Linear para prever automaticamente o valor estimado.
-
----
+- Predição de valores
+- Interface web com Python
 
 # 📚 Aprendizados
 
-Durante o desenvolvimento deste projeto foi possível aprender:
+Durante esse projeto foi possível aprender:
 
-- Como utilizar Streamlit
-- Criação de aplicações web com Python
-- Treinamento de modelos de Machine Learning
+- Como usar Streamlit para criar interfaces web
 - Manipulação de dados com Pandas
-- Visualização gráfica com Matplotlib
-- Predição de dados utilizando Regressão Linear
+- Treinamento de modelo de Machine Learning
+- Uso de Regressão Linear para previsões
+- Integração entre modelo e interface
