@@ -44,20 +44,6 @@ O usuário informa o diâmetro da pizza e o sistema utiliza um modelo de Regress
 
 ---
 
-# 📈 Exemplo de Regressão Linear
-
-A previsão do preço é baseada no modelo matemático:
-
-y = ax + b
-
-Onde:
-
-- x = diâmetro da pizza
-- y = preço previsto
-- a = coeficiente angular
-- b = intercepto
-
-
 # 📚 Aprendizados
 
 Durante o desenvolvimento deste projeto foi possível aprender:
