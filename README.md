@@ -11,7 +11,6 @@ Além do modelo de regressão linear, o projeto também possui uma interface web
 - Python
 - Pandas
 - Scikit-learn
-- Matplotlib
 - Streamlit
 
 ---
